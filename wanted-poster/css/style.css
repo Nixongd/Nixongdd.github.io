@@ -144,15 +144,24 @@ p{text-transform: uppercase;
 
 /* Image & Figure */
 
-img { }
+img {margin-top: 0%; 
+margin-bottom: 0%;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+max-width: 50%;}
 
-figure{margin-bottom: 32rem;}
+figure{margin-bottom: 2rem;}
 
-figcaption{padding-top: 8rem;
+figcaption{padding-top: .5rem;
 text-align: right;}
 
 /* Footer */
 
-footer{}
+footer{padding-top: 1rem;
+padding-bottom: 1rem;
+padding-left: 1rem;
+padding-right: 1rem;
+border-top: 2rem solid #333;}
 
 
