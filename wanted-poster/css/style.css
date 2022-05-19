@@ -65,15 +65,42 @@ h1 {
     text-align:center;
 }
 
+h2 {text-transform: uppercase;
+    font-size:6rem;
+    font-size:48rem;
+    margin: 0;
+    letter-spacing: .5rem;
+    letter-spacing: 4rem;
+    color:darkred;
+    font-weight: normal;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+}
+
+h3 {}
+
+h4 {}
+
+h5{}
+
 
 /* Section & Paragraph */
 
+section{}
 
+p{}
 
 /* Image & Figure */
 
+img{}
 
+figure{}
+
+figcaption{}
 
 /* Footer */
+
+footer{}
 
 
