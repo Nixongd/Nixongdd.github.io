@@ -128,7 +128,8 @@ p { margin-top: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
     width: 90%;
-    text-align:left;}
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:left;}}
 
 /* Image & Figure */
 
