@@ -144,11 +144,11 @@ p{text-transform: uppercase;
 
 /* Image & Figure */
 
-img {margin-top: 0%; 
+img {width: 100%;
+    margin-top: 0%; 
 margin-bottom: 0%;
 margin-left: auto;
 margin-right: auto;
-width: 100%;
 max-width: 50%;}
 
 figure{margin-bottom: 2rem;}
