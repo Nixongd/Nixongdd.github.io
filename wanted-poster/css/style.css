@@ -66,9 +66,9 @@ h1 {
 }
 
 h2 {text-transform: uppercase;
-    font-size:12rem;
+    font: size 48rem
     margin: 0;
-    letter-spacing: 4rem;
+    letter-spacing: .4rem;
     color:darkred;
     font-weight: normal;
     text-shadow:.09375rem .09375rem .09375rem #000;
