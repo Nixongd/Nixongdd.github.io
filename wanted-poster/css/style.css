@@ -114,20 +114,11 @@ h5 {text-transform: uppercase;
 
 /* Section & Paragraph */
 
-section {text-transform: uppercase;
-    font-size:1rem;
+section {
     margin-top: .5rem;
-    margin: 0;
-    letter-spacing: .5rem;
-    color:darkred;
-    text-shadow:.09375rem .09375rem .09375rem #000;
-    font-family:'Alfa Slab One', Garamond, serif;
-    text-align:center;
 }
 
-p{text-transform: uppercase;
-    font-size:1rem;
-    margin-top: 1rem;
+p { margin-top: 1rem;
     margin-bottom: 1rem;
     margin-left: auto;
     margin-right: auto;
@@ -137,9 +128,6 @@ p{text-transform: uppercase;
     padding-left: 1rem;
     padding-right: 1rem;
     width: 90%;
-    color:darkred;
-    text-shadow:.09375rem .09375rem .09375rem #000;
-    font-family:'Alfa Slab One', Garamond, serif;
     text-align:left;}
 
 /* Image & Figure */
