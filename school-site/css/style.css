@@ -115,7 +115,10 @@ p{}
 
 li{}
 
-figcaption{}
+figcaption{
+    font-size: .75rem;
+    margin-bottom: 2rem ;
+}
 
 
 /* Link Styling */
