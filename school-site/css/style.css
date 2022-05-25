@@ -103,7 +103,11 @@ h1 {font-size:3.75rem;
     font-family: 'josefinlab', serif;
     text-align:center;}
 
-h2 {}
+h2 {font-size:1.5rem;
+    margin: 1.125rem;
+    letter-spacing: .125rem;
+    font-family: 'josefinlab', serif;
+    }
 
 h2 + p{}
 
