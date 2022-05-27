@@ -134,7 +134,7 @@ a:link,
 a:visited{color: #33658A;}
 
 a:focus,
-a:hover{}
+a:hover{text-decoration: none;}
 
 
 /* List Styling */
@@ -165,3 +165,4 @@ footer {}
 
 
 
+ 
