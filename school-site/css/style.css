@@ -109,11 +109,11 @@ h2 {font-size:1.5rem;
     font-family: 'josefinlab', serif;
     }
 
-h2 + p{font-size: 12rem;
+h2 + p{font-size: .75rem;
     letter-spacing: .031rem;
     word-spacing: .125rem;}
 
-p{font-size: 12rem;
+p{font-size: .75rem;
 letter-spacing: .031rem;
 word-spacing: .125rem;
 text-indent: 1.5rem;}
