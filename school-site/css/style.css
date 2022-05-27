@@ -139,9 +139,17 @@ a:hover{text-decoration: none;}
 
 /* List Styling */
 
-ul{}
+ul{margin-top: 1rem;
+margin-bottom: 1rem;
+margin-left: 0;
+margin-right: 0%;
+list-style-type: square;}
 
-ol{}
+ol{margin-top: 1rem;
+margin-bottom: 1rem;
+margin-left: 0rem;
+margin-right: 0rem;
+list-style-type:lower-alpha;}
 
 .long-list a:hover{}
 
