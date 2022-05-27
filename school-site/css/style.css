@@ -171,14 +171,16 @@ margin-bottom: 1.5rem;
 border: solid, .0625rem, color #33658A;}
 
 nav a:focus,
-nav a:hover{}
+nav a:hover{color: #fff;
+background-color: #33658A;}
 
-nav a:active{}
+nav a:active{color: #fff;
+background-color: #33658A;}
 
 
 /* Footer Styles */
 
-footer {}
+footer {text-align: center;}
 
 
 
