@@ -151,7 +151,7 @@ margin-left: 0rem;
 margin-right: 0rem;
 list-style-type:lower-alpha;}
 
-.long-list a:hover{}
+.long-list a:hover{text-transform: uppercase;}
 
 
 /* Navigation Menu */
