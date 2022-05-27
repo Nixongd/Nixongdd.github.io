@@ -161,7 +161,7 @@ nav{
     margin-top: .25rem;
 }
 
-nav a{text-decoration: none;
+nav a:link{text-decoration: none;
 display: inline-block;
 width: 100%;
 height: 3;
