@@ -37,7 +37,7 @@ main {
     background-repeat: no-repeat;
     border:1px solid #333;}
     nav {
-        float: center;
+        float: left;
         width:11.25rem;
     }
         /* 
@@ -115,7 +115,7 @@ p{font-size: .75rem;
     nav a:link{text-decoration: none;
     width: 100%;
     line-height: 1;
-    text-align: center;
+    text-align: left;
     font-size: 1rem;
     margin-bottom: 1.5rem;
   
