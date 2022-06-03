@@ -19,8 +19,8 @@ body {
 main {
     overflow:auto;
     min-width:45rem;
-        }
     
+}
 
 section {
     float: left;
@@ -156,27 +156,29 @@ list-style-type:lower-alpha;}
 
 /* Navigation Menu */
 
-
 nav{
     padding-left: 0;
     margin-top: .25rem;
 }
 
-Nav a:focus,
-nav a:hover:{
-    color: #FFF;
-    background-color: #33658A; }
-
-
 nav a:link{text-decoration: none;
+display: inline-block;
 width: 100%;
 line-height: 3;
 text-align: center;
-font-size: 3rem;
+font-size: 1.125rem;
 margin-bottom: 1.5rem;
 border-style: solid;
 border-width: .0625rem; 
 border-color:#33658A;}
+
+nav a:focus,
+nav a:hover{color: #fff;
+background-color: #33658A;}
+
+nav a:active{color: #fff;
+background-color: #000;
+}
 
 
 /* Footer Styles */
