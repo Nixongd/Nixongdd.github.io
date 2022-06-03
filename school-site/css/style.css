@@ -162,6 +162,12 @@ nav{
     margin-top: .25rem;
 }
 
+Nav a:focus,
+nav a:hover:{
+    color: #FFF;
+    background-color: #33658A; }
+
+
 nav a:link{text-decoration: none;
 width: 100%;
 line-height: 3;
