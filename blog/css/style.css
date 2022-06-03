@@ -159,6 +159,7 @@ aside{float: right;
     }
     
     nav a:link{text-decoration: none;
+    word-spacing: normal;
     width: 100%;
     line-height: 1;
     text-align: left;
