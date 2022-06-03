@@ -34,8 +34,8 @@ body {
 main {
     background-color: white;
     background-size:cover;
-    background-repeat: no-repeat;
-    border:1px solid #333;}
+    background-repeat: no-repeat;}
+
     nav {
         float: left;
         width:11.25rem;
