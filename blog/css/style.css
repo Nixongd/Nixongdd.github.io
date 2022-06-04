@@ -32,9 +32,9 @@ body {
 
 /* Layout */
 
-main {
+main-section {
     overflow:auto;
-    min-width:45rem;
+    max-width:75 vw;
         background-image:url(../images/wrinkled-white-paper-background.jpg);
         border:1px solid #333;
     }
